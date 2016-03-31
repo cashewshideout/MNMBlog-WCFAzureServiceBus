@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace WCFServiceBus.Contracts
 {
+    [ServiceContract]
     public interface IHelloService
     {
         [OperationContract]

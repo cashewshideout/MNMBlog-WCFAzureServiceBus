@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceBus.Contracts", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceBus.Client", "..\WCFServiceBus.Client\WCFServiceBus.Client.csproj", "{56A17A61-19BD-423E-AD47-84290072FDD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost.Proxies", "..\WCFServiceHost.Proxies\WCFServiceHost.Proxies.csproj", "{F19F0309-865D-4F6F-98DE-B10BED9ED6D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceBus.Proxies", "..\WCFServiceHost.Proxies\WCFServiceBus.Proxies.csproj", "{F19F0309-865D-4F6F-98DE-B10BED9ED6D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceBus.Services", "..\WCFServiceBus.Services\WCFServiceBus.Services.csproj", "{1DAADBAF-021E-40B7-AC67-7A473A5226CA}"
 EndProject

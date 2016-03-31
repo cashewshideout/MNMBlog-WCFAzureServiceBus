@@ -7,8 +7,8 @@
     <ProjectGuid>{F19F0309-865D-4F6F-98DE-B10BED9ED6D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WCFServiceHost.Proxies</RootNamespace>
-    <AssemblyName>WCFServiceHost.Proxies</AssemblyName>
+    <RootNamespace>WCFServiceBus.Proxies</RootNamespace>
+    <AssemblyName>WCFServiceBus.Proxies</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -56,9 +56,9 @@
       <Project>{8d616f96-b7b8-4f10-a585-f25397c81ffc}</Project>
       <Name>WCFServiceBus.Contracts</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WCFServiceHost.Proxies\WCFServiceHost.Proxies.csproj">
+    <ProjectReference Include="..\WCFServiceHost.Proxies\WCFServiceBus.Proxies.csproj">
       <Project>{f19f0309-865d-4f6f-98de-b10bed9ed6d6}</Project>
-      <Name>WCFServiceHost.Proxies</Name>
+      <Name>WCFServiceBus.Proxies</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -52,6 +52,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\WCFServiceBus.Contracts\WCFServiceBus.Contracts.csproj">
+      <Project>{8d616f96-b7b8-4f10-a585-f25397c81ffc}</Project>
+      <Name>WCFServiceBus.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WCFServiceBus.Services\WCFServiceBus.Services.csproj">
       <Project>{1daadbaf-021e-40b7-ac67-7a473a5226ca}</Project>
       <Name>WCFServiceBus.Services</Name>

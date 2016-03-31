@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WCFServiceBus.Contracts;
 
-namespace WCFServiceHost.Proxies
+namespace WCFServiceBus.Services
 {
     public class HelloManager : IHelloService
     {
